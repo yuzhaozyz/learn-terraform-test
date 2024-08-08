@@ -4,7 +4,7 @@
 terraform {
 
 /*  cloud {
-    organization = "ACME-test-org"
+    organization = "yuzhaozyz"
 
     workspaces {
       name = "learn-terraform"
